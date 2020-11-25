@@ -22,7 +22,7 @@ In particular we published a very exciting result in [Nature](https://www.nature
 |:--:| 
 | Showing the discovery of SPT2349-56 in SPT, LABOCA and ALMA images <br /> Credit: ALMA (ESO/NAOJ/NRAO), T. Miller & S. Chapman et al.; Herschel; South Pole Telescope; (NRAO/AUI/NSF) B. Saxton |
 
-### Dark matter sub-structure & Self-Friction
+### Self-Friction
 Here at Yale I have also worked with Frank van den Bosch on investigating dark matter substructure in numerical simulations. Recently it has become clear the large cosmological simulations do not properly resolve sub-halo and they are prone to troublesome numerical artifacts. Therefore the detailed behavior of sub-halos in these large volume simulations shouldn't be trusted! We have created the [DASH library](https://cosmo.oca.eu/dash/) which is a suite of high resolution simulations to better understand the dynamics of subhalos
 
 We are also working a study exploring the effects of  dynamical self-friction: when a sub-halo's previously stripped material interacts with the still bound remnant causing it to lose angular momentum and decay in radius.  This adds another complication to the already difficult process of modelling galaxy mergers. We have published these results in [Miller et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4496M/abstract). Self-friction always leads to orbital decay, sapping angular momentum from the subhalo. While we find that in general self-friction is a 10% effect compared to normal dynamical friction it is important for radial orbits close to their pericentric passage.
