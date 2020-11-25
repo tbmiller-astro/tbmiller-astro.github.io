@@ -37,8 +37,10 @@ navigation_header:
   url: /
 - title: Research
   url: /research
-
-
+- title: CV
+  url: /cv
+- title: Data
+  url: /data
 # Footer nav
 navigation_footer:
 - title: Back to top
