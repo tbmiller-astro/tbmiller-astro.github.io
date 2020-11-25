@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/tbmiller-astro/tbmiller-astro.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Tim Miller and I am a PhD student and Gruber Fellow studying Astronomy at Yale University. I'm generally interested in all things related to galaxy formation but my main research topic is galaxy morpology. I mostly work with data from the Hubble Space Telescope and the Dragonfly Telephoto array to study galaxy morpology and high and low redshift. My thesis advisor is Pieter van Dokkum.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tbmiller-astro/tbmiller-astro.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I grew up in Calgary, Alberta, Canada and received My B.Sc and M.Sc in Physics from Dalhousie University in Halifax, Canada before moving to Yale. While I was at Dal I worked with Scott Chapman studying sub-mm galaxies, specifically using them to signpost proto-clusters in the early universe.
