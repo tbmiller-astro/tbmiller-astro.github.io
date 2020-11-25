@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'tbmiller-astro.github.io'
+url: 'https://tbmiller-astro.github.io'
 baseurl: ''
 title: 'Tim Miller'
 description: 'Tim Miller's personal research website'
