@@ -1,5 +1,5 @@
 # Set theme
-# remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic
 
 # File excludes
 exclude:
@@ -23,7 +23,7 @@ plugins:
 url: 'https://tbmiller-astro.github.io'
 baseurl: ''
 title: 'Tim Miller'
-description: 'Tim Miller's personal research website'
+description: 'Tim Miller`s personal research website'
 permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
