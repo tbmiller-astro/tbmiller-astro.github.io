@@ -4,13 +4,15 @@ layout: page
 feature_image: "https://www.dragonflytelescope.org/uploads/1/2/0/1/120152565/background-images/348137435.jpg"
 ---
 
-## How to define the size of a galaxy?
+### How to define the size of a galaxy?
 
 As a part of thesis I am studying the sizes of galaxies. Specifically different definitions of the size of a galaxy and how these choise impact interpretation. Galaxies do not have an edge or cut-off so it is likely impossible to uniquely define the size of a galaxy. The most commonly used measure is the half-light, or effective radius, which is the radius that contains half of the total luminosity. In a recent paper we wrote ( [Miller et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872L..14M/abstract) ) we investigate r<sub>80</sub> and r<sub>20</sub> the radius that contain 80% or 20% of a galaxy's total luminosity. In the figure below, taken from the paper, we show that the galaxy size - stellar mass relation looks markedly different depending on which definition of size is used. Specifically when we use r<sub>80</sub> star-forming and quiescent galaxies appear to have nearly the same size at all radii.
 
+| <img src="https://user-images.githubusercontent.com/51385038/100286982-cfc36180-2f41-11eb-81d7-de3aabd1d72b.PNG" alt="drawing" width="700"/> | 
+|:--:| 
+| Showing the galaxy size -- stellar mass distribution using different definitions of radii from [Miller et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...872L..14M/abstract) |
 
-
-## Sub-mm galaxies
+### Sub-mm galaxies
 
 During my B.Sc and M.Sc degrees I worked with Scott Chapman on observational and theoretical studies of Sub-mm galaxies.  These are dusty galaxies at z > 2 which posses star formation rates up to 1000 solar masses per year. They are some of the most extreme galaxies ever observed and allow us to study star formation in extreme environments in the early universe. I focused on using these galaxies to signpost early overdensities and proto-clusters in the early universe.
 
@@ -20,7 +22,7 @@ In particular we published a very exciting result in [Nature](https://www.nature
 |:--:| 
 | Showing the discovery of SPT2349-56 in SPT, LABOCA and ALMA images <br /> Credit: ALMA (ESO/NAOJ/NRAO), T. Miller & S. Chapman et al.; Herschel; South Pole Telescope; (NRAO/AUI/NSF) B. Saxton |
 
-## Dark matter sub-structure & Self-Friction
+### Dark matter sub-structure & Self-Friction
 Here at Yale I have also worked with Frank van den Bosch on investigating dark matter substructure in numerical simulations. Recently it has become clear the large cosmological simulations do not properly resolve sub-halo and they are prone to troublesome numerical artifacts. Therefore the detailed behavior of sub-halos in these large volume simulations shouldn't be trusted! We have created the [DASH library](https://cosmo.oca.eu/dash/) which is a suite of high resolution simulations to better understand the dynamics of subhalos
 
 We are also working a study exploring the effects of  dynamical self-friction: when a sub-halo's previously stripped material interacts with the still bound remnant causing it to lose angular momentum and decay in radius.  This adds another complication to the already difficult process of modelling galaxy mergers. We have published these results in [Miller et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4496M/abstract). Self-friction always leads to orbital decay, sapping angular momentum from the subhalo. While we find that in general self-friction is a 10% effect compared to normal dynamical friction it is important for radial orbits close to their pericentric passage.
