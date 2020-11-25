@@ -1,4 +1,7 @@
-## About Me
+---
+layout: page
+title: About Me
+---
 
 My name is Tim Miller and I am a PhD student and Gruber Fellow studying Astronomy at Yale University. I'm generally interested in all things related to galaxy formation but my main research topic is galaxy morpology. I mostly work with data from the Hubble Space Telescope and the Dragonfly Telephoto array to study galaxy morpology and high and low redshift. My thesis advisor is Pieter van Dokkum.
 
