@@ -35,10 +35,9 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
+
 
 # Footer nav
 navigation_footer:
