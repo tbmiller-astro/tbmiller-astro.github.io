@@ -41,6 +41,8 @@ navigation_header:
   url: /cv
 - title: Data
   url: /data
+- title: Galaxy Lunch
+  url: /gal_lunch
 # Footer nav
 navigation_footer:
 - title: Back to top
