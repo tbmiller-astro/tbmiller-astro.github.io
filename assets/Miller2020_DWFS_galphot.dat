@@ -2,15 +2,15 @@
 #Please see the paper above for full details on these observations and how this sample was selected
 #If you have questions about the data, trouble using it or want additional measruments please email me at tim.miller _at_ yale.edu
 #Rows:
-#(1) RA J200 (deg) 
-#(2) DEC J200 (deg) 
+#(1) RA J2000 (deg) 
+#(2) DEC J2000 (deg) 
 #(3) GAMA CATAID - Unique galaxy ID used in the GAMA database 
 #(4) SDSS DR7 Object ID - Unique SDSS photo ID 
 #(5) g mag - Dragonfly measured g band magnitude converted to SDSS filter system
 #(6) g f_extp - g band fraction of flux contained in the exponential extrapolation (see paper for details)
 #(7) r mag - Dragonfly measured r band magnitude converted to SDSS filter system
 #(8) r f_extp - r band fraction of flux contained in the exponential extrapolation (see paper for details)
-#(9) g-r color - Dragonfly measured g-r using the total magnitudes, corrected for differenetial extinction
+#(9) g-r color - Dragonfly measured g-r color using the total magnitudes, corrected for differenetial extinction and converted to SDSS filter system
 1.7460e+02	-1.0525e+00	30328	587722981737693328	1.8558e+01	7.5878e-03	1.7441e+01	1.4460e-04	1.0992e+00
 1.7515e+02	-1.1181e+00	30422	587722981737955414	1.8732e+01	1.7455e-03	1.8286e+01	2.2423e-03	4.2837e-01
 1.7573e+02	-1.1965e+00	30523	587722981738217583	1.8583e+01	1.1927e-03	1.7563e+01	1.1126e-03	1.0052e+00
