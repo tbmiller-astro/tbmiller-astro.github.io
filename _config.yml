@@ -39,7 +39,7 @@ navigation_header:
   url: /research
 - title: CV
   url: /cv
-- title: Data
+- title: Code and Data
   url: /data
 - title: Galaxy Lunch
   url: /gal_lunch
