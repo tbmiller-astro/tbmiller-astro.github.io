@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: page
-feature_image:"https://user-images.githubusercontent.com/51385038/134207530-9fb8d58f-128c-41b9-a5ad-ba15cbee6ad9.png"
+feature_image: "https://user-images.githubusercontent.com/51385038/134207530-9fb8d58f-128c-41b9-a5ad-ba15cbee6ad9.png"
 feature_text:
   ### Tim Miller
 ---
