@@ -1,10 +1,11 @@
 ---
 title: Welcome
 layout: page
-feature_image:"https://nerdist.com/wp-content/uploads/2021/01/Hubble-DF-feature-image-01202020.jpg"
+feature_image:"https://user-images.githubusercontent.com/51385038/134207530-9fb8d58f-128c-41b9-a5ad-ba15cbee6ad9.png"
 feature_text:
   ### Tim Miller
 ---
+
 <img src="https://user-images.githubusercontent.com/51385038/100281703-668b2080-2f38-11eb-9020-32b5bcfb96a8.JPG" width="200" align="right">
 Hello, my name is Tim Miller and I am a PhD student and Gruber Fellow studying Astronomy at Yale University. My thesis advisor is Pieter van Dokkum. I'm generally interested in all things related to galaxy formation but my main research topic is galaxy morpology. I mostly work with data from the Hubble Space Telescope and the [Dragonfly Telephoto array](https://www.dragonflytelescope.org/) to study galaxy morpology and the outskirts of galaxies at high and low redshift. I am also interested in Data analysis techniques and new methods we can use to measure galaxy morphology and other information from astronomical surveys.
 
