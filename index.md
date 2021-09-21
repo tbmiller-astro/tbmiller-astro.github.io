@@ -1,7 +1,7 @@
 ---
 title: Welcome
 layout: page
-feature_image: "https://scitechdaily.com/images/Hubble-Ultra-Deep-Field-1536x853.jpg"
+feature_image:"https://nerdist.com/wp-content/uploads/2021/01/Hubble-DF-feature-image-01202020.jpg"
 feature_text:
   ### Tim Miller
 ---
