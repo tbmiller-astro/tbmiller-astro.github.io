@@ -2,7 +2,7 @@
 title: Welcome
 layout: page
 feature_image: "https://user-images.githubusercontent.com/51385038/134207530-9fb8d58f-128c-41b9-a5ad-ba15cbee6ad9.png"
-feature_text: <span style="color:white ; font-size:175;"> Tim B. Miller </span>
+feature_text: <span style="color:white ; font-size:56pt;"> Tim B. Miller </span>
 ---
 
 
