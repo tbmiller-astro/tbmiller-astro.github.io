@@ -3,6 +3,11 @@ title: Research
 layout: page
 feature_image: "https://www.dragonflytelescope.org/uploads/1/2/0/1/120152565/background-images/348137435.jpg"
 ---
+### imcascade: Bayesian MGE models
+
+In a recent paper [(Miller & van Dokkum 2021)](https://arxiv.org/abs/2109.13262), we describe imcascade, a Bayesian implementation of the multi-gaussian expansion method for fitting the morphology of galaxies. This represents the galaxy as a mixture of Gaussians, and is a very flexible description of the light proifle. This has some key advantages over the traditional Sersic fitting. Mainly that it is not hamstrung by simplistic parameterizations. This means one can obtrain reliable uncertainties or focus on lower S/N regions of the galaxy, like the outskirts. It also allows the direct study of brightness and colour profiles. There are also some cool numerical tricks like analytic convolution and pixel integration involved. We are currently applying this method to HST data to study colour gradients in galaxis at cosmic noon so check back soon for those results.
+
+The code is availible on [github](https://github.com/tbmiller-astro/imcascade) and [PyPI](https://pypi.org/project/imcascade/). Please reach out if you are intereseted in using this code and have any questions.
 
 ### We are not missing light in the outskirts of massive galaxies
 Massive galaxies are integral to our understanding of galaxy formation however they are notoriously tricky to observe properly. They are known to have very extended low surface-brightness outskirts which contain a large fraction of their light (>10%). Using the data from the [Dragonfly telephoto array](https://www.dragonflytelescope.org/) and a photometry method designed to take advatage of the DF data, we accurately measured the total flux and colors of nearby massive galaxies taking into account all the light in the outskirts. When comparing to common methods applied to SDSS, we find that our total flux measurement agree but DF measured bluer colors on average. This leads to the perplexing result that when accounting for the light in the outskirts with dragonfly we measure lower stellar masses the other techniques. These results are published in a [paper that appeared in ApJ](https://ui.adsabs.harvard.edu/abs/2021ApJ...909...74M/abstract)
