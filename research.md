@@ -3,7 +3,7 @@ title: Research
 layout: page
 feature_image: "https://www.dragonflytelescope.org/uploads/1/2/0/1/120152565/background-images/348137435.jpg"
 ---
-### Moving beyond the sersic profile
+### Moving beyond the Sersic profile
 
 In a recent paper [(Miller & van Dokkum 2021)](https://arxiv.org/abs/2109.13262), we describe imcascade, a Bayesian implementation of the multi-gaussian expansion method for fitting the morphology of galaxies. This represents the galaxy as a mixture of Gaussians, and is a very flexible description of the light proifle. This has some key advantages over the traditional Sersic fitting. Mainly that it is not hamstrung by simplistic parameterizations. This means one can obtrain reliable uncertainties or focus on lower S/N regions of the galaxy, like the outskirts. It also allows the direct study of brightness and colour profiles. There are also some cool numerical tricks like analytic convolution and pixel integration involved. We are currently applying this method to HST data to study colour gradients in galaxis at cosmic noon so check back soon for those results.
 
