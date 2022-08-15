@@ -4,8 +4,15 @@ remote_theme: daviddarnes/alembic
 # File excludes
 exclude:
 - README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
 - Gemfile
 - Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
 # Set plugins
 plugins:
@@ -19,17 +26,10 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-# Site settings
-url: 'https://tbmiller-astro.github.io'
-baseurl: ''
-title: 'Tim Miller'
-description: 'Tim Miller`s personal research website'
-permalink: pretty
-# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
-
 # Pagination
-paginate: 5
+paginate: 2
 paginate_path: blog/page:num
+
 
 # Header nav
 navigation_header:
@@ -41,19 +41,18 @@ navigation_header:
   url: /cv
 - title: Code and Data
   url: /data
-- title: Galaxy Lunch
-  url: /gal_lunch
+
+
+# Site settings
+url: 'https://tbmiller-astro.github.io'
+baseurl: ''
+title: 'Tim Miller'
+description: 'Tim Miller`s personal research website'
+permalink: pretty
+# logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+
 # Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
 
-# Collections
-collections:
-  posts:
-    title: Posts
-    output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
