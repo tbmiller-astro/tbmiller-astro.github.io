@@ -6,20 +6,15 @@ feature_image: "https://www.dragonflytelescope.org/uploads/1/2/0/1/120152565/bac
 
 Listed on this page are brief descriptions of many of the research projects I am interested in at the moment. Please click on the links to find more information on any of them
 
-### Software
+## Software and Methodology
 
-#### [Sersic fitting for the 2020's and beyond](/research/pysersic/)
+Much of my research involves involves developing software and novel methods. Please see the [software page](/data.md) for more information!
 
-I am a co-lead developer of pysersic, a new Bayesian implementation of a old method. Parameteric profile fitting is a stable in extragalactic astronomy to study the morphology of galaxies, and there are many codes designed to do so. The benefits of pysersic are that is is written fully in python, utilizing [jax](https://github.com/google/jax) for faster execution, ability to run on GPUs and gradient tracking. We utilize gradient information so for lightening quick Bayesian inference. 
+## The evolution and interpretation of Galaxy Morphology
 
-We designed pysersic to be simple to use but still customizable were necessary! All the development is hosted on [github](https://github.com/pysersic/pysersic). Feel free to reach out if you have any questions or issues!
+### [The Growth of Galaxies in the Early Universe](/research/eor_morph.md)
 
-#### [Moving beyond the Sersic profile](/research/imcascade/)
-
-I am interested in novel data analysis techniques, specifically those focused on measuring galaxy morphology. I developed imcascade, which utilizes a series of Gaussians to be more flexible then traditional Sersic fitters and better represent realistic galaxies. imcascade works great for galaxies for images taken with space telescope where there is complicated structure but the PSF is still important
-
-
-### Thesis projects
+Recently I have been interested in using JWST to study how galaxies form and evolve in the early Universe. In a recent paper we show that the sizes of galaxies grow rapidly in the first billions years of the Universe, requiring a different growth mechanism. 
 
 #### [Using color gradients to understand galaxy growth](/research/col_grad/)
 
@@ -27,7 +22,7 @@ The colors of a galaxies contain a multitude of information about their formatio
 
 #### [How to define the size of a galaxy?](/research/gal_size/)
 
- The sizes and structures of different types of galaxies serve as important tools to investigate their formation. While the size of a galaxy is a crucial characteristic, however it is not a well defined property. First of all there is no unique definition of size, most people use the radius that contains half of the light. Additionally what wavelength you are looking at greatly affects the morphology. My thesis has focused on better investigating these two assumptions and what affects they had on the conclusions we draw
+ The sizes and structures of different types of galaxies serve as important tools to investigate their formation. Fhe size of a galaxy is a crucial characteristic, however it is not a well defined property. First of all there is no unique definition of size, most people use the radius that contains half of the light. Additionally what wavelength you are looking at greatly affects the morphology. My thesis has focused on better investigating these two assumptions and what affects they had on the conclusions we draw
 
 ### Past Work
 

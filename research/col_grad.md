@@ -14,7 +14,7 @@ The colors, or relative brightness at different wavelengths, of stellar populati
 
 However, with Hubble, we can only observe the rest-frame optical colors of galaxies at this epoch. This limits the ability to interpret the physical cause as both dust and age (also metallicity) can equally affect the optical colors of galaxies.
 
-#### Early JWST observations reveals the cause of color gradients
+#### JWST observations reveals the cause of color gradients
 
 With the longer wavelength capabilities of the new James Webb Space Telescope, we can finally investigate the causes of color gradients at z=2. These infrared measurement help differentiate between the effects of dust attenuation and age on color of a galaxy. 
 

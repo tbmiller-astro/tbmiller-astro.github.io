@@ -10,6 +10,6 @@ Sersic profile fitting is an invaluable tool in observational extragalactic astr
 
 The goal of pysersic is to put Sersic fitting in a Bayesian inference framework and utilize the recently developed jax library. Developed by google for machine learning, jax greatly speeds up computations, compared to normal python, allows code to seamlessly run on GPU's and TPUs. Last but not least, it also tracks gradients. This last part is crucial for fast Bayesian inference utilizing modern, gradient based samplers such as Hamiltonian Monte Carlo. All this combines so that pysersic can calculate posteriors of morphological parameters and fast!
 
-We designed to be simple to use for fitting one, or more sources simultaneously. This package is still quite young and development is on-going. While the basic functionality is working and tested we are always adding new features and improving the implementations so please reach our if you have ides for how to improve pysersic. 
+We designed to be simple to use with sensible defaults for those just starting out but still customizable for power users. Development is on-going are we are always adding new features and improving the implementations so please reach out if you have ides for how to improve pysersic. 
 
 For more info please read the [paper describing pysersic](https://joss.theoj.org/papers/10.21105/joss.05703). All development happens on [github](https://github.com/pysersic/pysersic).
