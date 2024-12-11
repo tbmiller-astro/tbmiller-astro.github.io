@@ -7,6 +7,10 @@ feature_image: "https://www.predictiveanalyticsworld.com/patimes/wp-content/uplo
 # Code
 Please look at my [github profile](https://github.com/tbmiller-astro) to see all the projects I'm currently working on. I briefly describe some of my main projects here:
 
+### [How to measure distances?](/research/silkscreen.md)
+
+I am the lead developer of silkscreen, a novel simulation based inference approach to measuring distances of dwarf galaxies. We recently published a paper describing the concept along with some applications but we are hoping to expand and improve the implementation. Our ultimate goal is a robust method to measure distances to dwarf galaxies from large surveys like LSST, Roman and Euclid.
+
 #### [Sersic fitting for the 2020's and beyond](/research/pysersic/)
 
 I am a co-lead developer of pysersic, a new Bayesian implementation of a old method. Parameteric profile fitting is a stable in extragalactic astronomy to study the morphology of galaxies, and there are many codes designed to do so. The benefits of pysersic are that is is written fully in python, utilizing [jax](https://github.com/google/jax) for faster execution, ability to run on GPUs and gradient tracking. We utilize gradient information so for lightening quick Bayesian inference. 
