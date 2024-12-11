@@ -1,8 +1,7 @@
 ---
 title: Welcome
 layout: page
-#feature_image: "https://user-images.githubusercontent.com/51385038/134207530-9fb8d58f-128c-41b9-a5ad-ba15cbee6ad9.png"
-feature_image: "https://www.flickr.com/photos/nasawebbtelescope/52563599528/in/album-72177720301006030"
+feature_image: "https://live.staticflickr.com/65535/52563599528_bd08c44c57_k.jpg"
 feature_text: <span style="color:white ; font-size:56pt;" > Tim B. Miller </span>
 ---
 
