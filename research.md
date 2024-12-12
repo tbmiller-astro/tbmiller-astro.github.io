@@ -10,19 +10,19 @@ Listed on this page are brief descriptions of many of the research projects I am
 
 Much of my research involves involves developing software and novel methods. Please see the [software page](/data.md) for more information!
 
-## The evolution and interpretation of Galaxy Morphology
+## The Evolution and Interpretation of Galaxy Morphology
 
-### [The Growth of Galaxies in the Early Universe](/research/eor_morph.md)
+### [The growth of galaxies in the early Universe](/research/eor_morph.md)
 
-Recently I have been interested in using JWST to study how galaxies form and evolve in the early Universe. In a recent paper we show that the sizes of galaxies grow rapidly in the first billions years of the Universe, requiring a different growth mechanism. 
+Recently I have been interested in using JWST to study how galaxies form and evolve in the early Universe. This wonderful telescope opens up a new window into studying the first generation of galaxies. In a recent paper we show that the sizes of galaxies grow rapidly in the first billions years of the Universe, requiring a different growth mechanism. 
 
 #### [Using color gradients to understand galaxy growth](/research/col_grad/)
 
-The colors of a galaxies contain a multitude of information about their formation history. However galaxies are known to have radial gradients in the colors, indicating complex multi-component formation histories. In my thesis I have the evolution of color gradients in galaxies to gain new insight into their formation pathways.
+The colors of a galaxies contain a multitude of information about their formation history. However galaxies are known to have radial gradients in the colors, indicating complex multi-component formation histories. In my thesis I studied the evolution of color gradients in galaxies to gain new insight into their formation pathways.
 
 #### [How to define the size of a galaxy?](/research/gal_size/)
 
- The sizes and structures of different types of galaxies serve as important tools to investigate their formation. Fhe size of a galaxy is a crucial characteristic, however it is not a well defined property. First of all there is no unique definition of size, most people use the radius that contains half of the light. Additionally what wavelength you are looking at greatly affects the morphology. My thesis has focused on better investigating these two assumptions and what affects they had on the conclusions we draw
+ The sizes and structures of different types of galaxies serve as important tools to investigate their formation. The size of a galaxy is a crucial characteristic, however it is not a well defined property. First of all there is no unique definition of size, most people use the radius that contains half of the light. Additionally what wavelength you are looking at greatly affects the morphology. My thesis  focused on interrogating these two choices and how it affects the conclusions drawn.
 
 ### Past Work
 
