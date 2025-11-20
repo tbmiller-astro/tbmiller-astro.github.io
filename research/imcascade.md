@@ -3,7 +3,7 @@ title: imcascade
 layout: page
 categories:
 - General
-feature_image: "http://trafyx.com/wp-content/uploads/2016/10/gxphot.png"
+feature_image: "https://www.sc.eso.org/~dgadotti/budda/I1459R.obj.jpg"
 ---
 
 To measure the sizes of distant galaxies one must account for telescope systematics like the point-spread function. This is usually accomplished using a forward modelling procedure using parameterized models such as a Sersic profile, for the galaxy. This is a restrictive parameterization which may not match reality and can lead to biased results with unknown systematic errors.
